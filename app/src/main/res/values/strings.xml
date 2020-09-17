@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NYTMovies</string>
+
+    <!-- Titles -->
+    <string name="main_title">NYT Movie Reviews</string>
+    <string name="review_detail_title">Review</string>
+
+    <!-- Errors -->
+    <string name="error_401">Unauthorized access</string>
+    <string name="error_unknown">Unknown error</string>
+    <string name="error_service">Server error</string>
+</resources>
